@@ -10,8 +10,8 @@ GitHub explorer is a project made in the first module of the Ignite Bootcamp pro
 
 ## 🖥 Setup
 - Clone the repository
-- Run `npm install` to install dependecies  || `yarn` to install dependecies
-- Run `npm run` dev to run the project      || `yarn dev` to run the project 
+- Run `npm install` to install dependecies or `yarn` to install dependecies
+- Run `npm run` dev to run the project or `yarn dev` to run the project 
 
 ## 🚧 Built With
 - ReactJS
